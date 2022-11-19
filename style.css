@@ -1,0 +1,26 @@
+h2{
+	text-align: center;
+	color: yellow;
+	background-color: blue;
+	margin: 5px;
+}
+
+h1{
+	text-align: center;
+	color: blue;
+}
+
+html{
+	background-color: lightyellow;
+}
+
+h3{
+	text-align: center;
+	color: yellow;
+	background-color: blue;
+	margin: 5px;
+}
+
+span{
+	color: white;
+}
