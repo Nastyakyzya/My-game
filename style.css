@@ -6,12 +6,12 @@ h2{
 }
 
 h1{
-	text-align: center;
+	background-image: radial-gradient (circle, #dfc58d, #bc9bab);
 	color: white;
 }
 
 html{
-	background-color: black;
+	background-image: linear-gradient (45deg, #4dd7fa, #03e2e8, #f3dfe4);
 }
 
 h3{
@@ -39,4 +39,6 @@ iframe{
 .uk{  
     width: 20px;
     height: 20px;
+    background-color: white;
+    margin: 5px;
 }
