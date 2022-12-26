@@ -6,12 +6,12 @@ h2{
 }
 
 h1{
-	background-image: radial-gradient (circle, #dfc58d, #bc9bab);
+	background-image:radial-gradient(circle, #dfc58d, #bc9bab);
 	color: white;
 }
 
 html{
-	background-image: linear-gradient (45deg, #4dd7fa, #03e2e8, #f3dfe4);
+	background-image:linear-gradient(45deg, #4dd7fa, #03e2e8, #f3dfe4);
 }
 
 h3{
